@@ -1,0 +1,6 @@
+rconsoleprint("Sap bo")
+game.Players.LocalPlayer:Kick("Sap bo")
+
+task.wait(3)
+while true do end;
+game:Shutdown()
