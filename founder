@@ -1,6 +1,4 @@
-rconsoleprint("Sap bo")
-game.Players.LocalPlayer:Kick("Sap bo")
-
-task.wait(3)
-while true do end;
-game:Shutdown()
+ for _ = 1, 5 do
+  messagebox("SW-M Not Supported.", "FATAL ERROR:", 5);
+  task.wait();
+ end;
